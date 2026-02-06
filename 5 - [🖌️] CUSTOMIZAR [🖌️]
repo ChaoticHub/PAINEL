@@ -43,6 +43,15 @@ TagImage = "10180536602" -- Roblox tag image ID
 ParticleImage = "8425069728" -- Roblox particle ID
 Text = "Hello again : text here
 
+Name = "Moon"
+MainColor = "255, 192, 203" -- RGB color (R:G:B)
+DisplayColor = "#FFC0CB" -- HEX color
+NameColor = "#FFC0CB" -- HEX color
+BackgroundImage = "123456789" -- Roblox image ID
+TagImage = "123456789" -- Roblox tag image ID
+ParticleImage = "123456789" -- Roblox particle ID
+Text = "Custom Text: FreeBSD"
+
 Nome = "Nome4"
 CorPrincipal = "0:0:0"
 CorDisplay = "#FFFFFF"
