@@ -1,3 +1,3 @@
-function print(t)
-   print(t)
+return function(t)
+    print(t)
 end
